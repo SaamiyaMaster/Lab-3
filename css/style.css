@@ -17,12 +17,12 @@ form {
 h1 {
 	color: black;
 	margin-bottom: 2%;
-	text-align: center;
+	text-align: left;
 }
 p {
 	color: #000000;
 	margin-bottom: 2%;
-	text-align: center;
+	text-align: left;
 }
 input {
 	box-sizing: border-box;
@@ -34,3 +34,5 @@ button {
 	background-color: #FFB6C1;
 	color: #000000;
 }
+@media screen and (min-width: 750px){
+	
