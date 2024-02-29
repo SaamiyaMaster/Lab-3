@@ -8,10 +8,14 @@ body {
 }	
 form {
 	color: black;
+	background-color: #fff8e7;
 	padding: 14px 21px;
 	margin: 7px 2%;
 	border: 2px;
 	border-radius: 6px;
 }
-	
-	
+h1 {
+	color: black;
+	margin-bottom: 4%
+	text-align: right-side;
+}
