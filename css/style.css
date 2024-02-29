@@ -8,6 +8,10 @@ body {
 }	
 form {
 	color: black;
+	padding: 14px 21px;
+	margin: 7px 2%;
+	border: 2px;
+	border-radius: 6px;
 }
 	
 	
