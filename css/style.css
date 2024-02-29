@@ -24,3 +24,7 @@ p {
 	margin-bottom: 4%;
 	text-align: right;
 }
+button {
+	background-color: #FFB6C1;
+	color: #000000;
+}
