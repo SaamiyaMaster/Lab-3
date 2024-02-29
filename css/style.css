@@ -17,5 +17,10 @@ form {
 h1 {
 	color: black;
 	margin-bottom: 4%
-	text-align: right-side;
+	text-align: center;
+}
+p {
+	color: #000000;
+	margin-bottom: 4%;
+	text-align: right;
 }
