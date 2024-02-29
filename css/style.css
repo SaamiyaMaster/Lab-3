@@ -16,13 +16,19 @@ form {
 }
 h1 {
 	color: black;
-	margin-bottom: 2%
+	margin-bottom: 2%;
 	text-align: center;
 }
 p {
 	color: #000000;
 	margin-bottom: 2%;
 	text-align: center;
+}
+input {
+	box-sizing: border-box;
+	width: 97%;
+	background-color: #fff8e7;
+	display: block;
 }
 button {
 	background-color: #FFB6C1;
