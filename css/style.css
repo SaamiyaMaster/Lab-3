@@ -1,5 +1,5 @@
 body {
-	font-family: Kode Mono, Roboto Condensed, Roboto;
+	font-family: "Kode Mono", "Roboto Condensed", Roboto;
 	line-height: 1.25;
 	font-size: 18px;
 	color:#000000;
@@ -33,7 +33,8 @@ input {
 	display: block;
 }
 button {
-	background-color: #FFB6C1;
+	
+	background-color: #808080;
 	color: #000000;
 }
 @media screen and (min-width: 750px){
