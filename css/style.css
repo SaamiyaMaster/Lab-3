@@ -1,9 +1,13 @@
 body {
 	font-family: 'Monaco', monospace;
 	line-height: 1.25;
-	font-size: 12px;
+	font-size: 18px;
 	color:#000000;
+	text-align: center;
 	background-color: #FFB6C1;
 }	
+form {
+	color: black;
+}
 	
 	
