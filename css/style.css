@@ -18,13 +18,13 @@ h1 {
 	font-size: 32px;
 	color: black;
 	margin-bottom: 2%;
-	text-align: center;
+	text-align: left;
 }
 p {
 	color: #000000;
 	font-size: 22px;
 	margin-bottom: 2%;
-	text-align: center;
+	text-align: left;
 }
 input {
 	box-sizing: border-box;
